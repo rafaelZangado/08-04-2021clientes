@@ -1,0 +1,23 @@
+CLIENTES/ VIEWS 
+	clientes/views/index.php
+	clientes/views/maps.php
+	clientes/views/pesquisarCliente.php
+
+CLIENTES/VIEWS/ CHAMADAS
+	clientes/views/chamadas/get_telebrand.php
+
+CLIENTES/VIEWS/ CHAMADAS_LIGACOES
+	clientes/views/chamadas_ligacoes/carregar.json.php
+
+CLIENTES/VIEWS/ CONCORRENTES
+	clientes/views/concorrentes/index.appmaker.php
+
+CLIENTES/VIEWS/ CONCORRENTES_CABECALHO
+	 clientes/views/concorrentes_cabecalho/actions.php
+
+CLIENTES/VIEWS/ CONTATOS
+	clientes/views/contatos/centralcobranca.resumo.php
+ 	clientes/views/contatos/cobranca.php
+ 	clientes/views/contatos/criar.cliente.detalhes.php
+	clientes/views/contatos/criar.resumido.php
+	 clientes/views/contatos/cobranca.php
